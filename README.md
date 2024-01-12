@@ -36,7 +36,7 @@ My name is Mustafa Onur KILINC.
 
 ### My GitHub Stats
 
-[![Mustafa Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafa-onur-kilinc)](https://github.com/anuraghazra/github-readme-stats)
+[![Mustafa Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafa-onur-kilinc&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Resources Used
 
