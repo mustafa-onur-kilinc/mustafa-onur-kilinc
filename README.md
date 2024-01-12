@@ -88,7 +88,9 @@ Benim adım Mustafa Onur KILINÇ.
 
 ### Kullanılan Kaynaklar
 
-Birden fazla GitHub profil README'si için, [abisheknaiidu'nun](https://github.com/abhisheknaiidu) [şu repository'sini](https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file) inceleyebilirsiniz. 
+Birden fazla GitHub profil README'si için, [abisheknaiidu'nun](https://github.com/abhisheknaiidu) [şu repository'sini](https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file) inceleyebilirsiniz.
+
+Rozetler şu kaynaktan: Shields.io 2024, _Shields.io_, 12 Ocak 2024 tarihinde erişildi, <<https://shields.io/>>
 
 <!--
 **mustafa-onur-kilinc/mustafa-onur-kilinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
