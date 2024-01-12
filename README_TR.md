@@ -1,6 +1,4 @@
-## Türkçe (🇹🇷)
-
-### Merhaba, okuyucu. 👋👋👋
+## Merhaba, okuyucu. 👋👋👋
 
 Benim adım Mustafa Onur KILINÇ.
 
