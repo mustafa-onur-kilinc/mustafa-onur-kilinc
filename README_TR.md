@@ -34,7 +34,7 @@ Benim adım Mustafa Onur KILINÇ.
 
 ## GitHub İstatistiklerim
 
-[![Mustafa Onur'un GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=mustafa-onur-kilinc&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mustafa Onur'un GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=mustafa-onur-kilinc&theme=algolia&show_icons=true&locale=tr)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Kullanılan Kaynaklar
 
