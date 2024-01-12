@@ -41,3 +41,7 @@ Benim adım Mustafa Onur KILINÇ.
 Birden fazla GitHub profil README'si için, [abisheknaiidu'nun](https://github.com/abhisheknaiidu) [şu repository'sini](https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file) inceleyebilirsiniz.
 
 Rozetler şu kaynaktan: Shields.io 2024, _Shields.io_, 12 Ocak 2024 tarihinde erişildi, <<https://shields.io/>>
+
+### English (EN)
+
+Bu README'nin İngilizce versiyonu için [buraya bakın](https://github.com/mustafa-onur-kilinc/mustafa-onur-kilinc/blob/main/README.md).
