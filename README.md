@@ -1,4 +1,4 @@
-## English 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+## English (EN)
 
 ### Hello, reader. 👋👋👋
 
@@ -7,11 +7,14 @@ My name is Mustafa Onur KILINC.
 ### About Me
 
 🏫 I am a Computer Engineering senior student at Yıldız Technical University.
+
 🤩 I am interested in promising future technologies such as;
 - Autonomous Vehicles 🚙🤖
 - Li-Fi 💡📶
 - Quantum Computers 💻⚛️
+
 🌠 I take pride in being as conscientious as I can, especially when it comes to writing README's and writing descriptive commit messages (Sorry if this comes off as arrogant.).
+
 👨 Pronouns: he/him
 
 ### How to Reach Me 📫
@@ -28,7 +31,7 @@ You can mail me at mustafaonurkilinc00@gmail.com
 
 For multiple examples of GitHub profile README's, check [this repository](https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file) by [abisheknaiidu](https://github.com/abhisheknaiidu)
 
-## Türkçe 🇹🇷
+## Türkçe (🇹🇷)
 
 ### Merhaba, okuyucu. 👋👋👋
 
@@ -37,10 +40,12 @@ Benim adım Mustafa Onur KILINÇ.
 ### Hakkımda
 
 🏫 Yıldız Teknik Üniversitesi'nde Bilgisayar Mühendisliği 4. Sınıf öğrencisiyim.
+
 🤩 Aşağıdaki gibi gelecek vaat eden teknolojilere ilgi duyuyorum;
 - Otonom Araçlar 🚙🤖
-- Li-Fi 💡
+- Li-Fi 💡📶
 - Kuantum Bilgisayarlar 💻⚛️
+
 🌠 Görevleri elimden geldiğince düzgün yapma özelliğimle gurur duyuyorum, özellikle README'ler ve ayrıntılı commit mesajları yazarken (Bu kulağa kibirli geliyorsa özür dilerim.).
 
 ### Bana Nasıl Ulaşabilirsiniz 📫
