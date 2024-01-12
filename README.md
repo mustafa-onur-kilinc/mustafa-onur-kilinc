@@ -1,5 +1,3 @@
-## English (EN)
-
 ### Hello, reader. 👋👋👋
 
 My name is Mustafa Onur KILINC.
@@ -46,7 +44,7 @@ For multiple examples of GitHub profile README's, check [this repository](https:
 
 Badges from: Shields.io 2024, _Shields.io_, accessed 12 January 2024, <<https://shields.io/>>
 
-## Türkçe (🇹🇷)
+### Türkçe (🇹🇷)
 
 For Turkish version of this README.md file, [go here](https://github.com/mustafa-onur-kilinc/mustafa-onur-kilinc/blob/main/README_TR.md).
 
