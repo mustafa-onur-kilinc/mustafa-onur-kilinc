@@ -1,11 +1,11 @@
-## Hello, reader. 👋👋👋
+# Hello, reader. 👋👋👋
 
 My name is Mustafa Onur KILINC.
 
 ![Static Badge](https://img.shields.io/badge/Social-LinkedIn?logo=linkedin&labelColor=gray&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmustafa-onur-kilin%25C3%25A7-479449173%2F)
 ![Static Badge](https://img.shields.io/badge/Mail-Gmail?logo=gmail&logoColor=white&labelColor=gray&color=red&link=mailto%3Amustafaonurkilinc00%40gmail.com)
 
-### About Me
+## About Me
 
 🏫 I am a Computer Engineering senior student at Yıldız Technical University.
 
@@ -22,7 +22,7 @@ My name is Mustafa Onur KILINC.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-### My Skills
+## My Skills
 
 ![Static Badge](https://img.shields.io/badge/Graphic_Design-Canva?logo=canva&label=Canva&labelColor=white&color=turquoise&link=https%3A%2F%2Fcanva.com)
 ![Static Badge](https://img.shields.io/badge/Graphic_Design-GIMP?logo=gimp&label=GIMP&labelColor=gray&color=white&link=https%3A%2F%2Fgimp.org)
@@ -34,17 +34,17 @@ My name is Mustafa Onur KILINC.
 ![Static Badge](https://img.shields.io/badge/Version_Control-Git?logo=git&label=Git&labelColor=gray&color=orange)
 ![Static Badge](https://img.shields.io/badge/Version_Control-GitHub?logo=github&label=GitHub&labelColor=gray&color=white)
 
-### My GitHub Stats
+## My GitHub Stats
 
 [![Mustafa Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafa-onur-kilinc&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Resources Used
+## Resources Used
 
 For multiple examples of GitHub profile README's, check [this repository](https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file) by [abisheknaiidu](https://github.com/abhisheknaiidu)
 
 Badges from: Shields.io 2024, _Shields.io_, accessed 12 January 2024, <<https://shields.io/>>
 
-### Türkçe (🇹🇷)
+## Türkçe (🇹🇷)
 
 For Turkish version of this README.md file, [go here](https://github.com/mustafa-onur-kilinc/mustafa-onur-kilinc/blob/main/README_TR.md).
 
