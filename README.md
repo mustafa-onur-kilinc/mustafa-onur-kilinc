@@ -4,6 +4,9 @@
 
 My name is Mustafa Onur KILINC.
 
+![Static Badge](https://img.shields.io/badge/Social-LinkedIn?logo=linkedin&labelColor=gray&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmustafa-onur-kilin%25C3%25A7-479449173%2F)
+![Static Badge](https://img.shields.io/badge/Mail-Gmail?logo=gmail&logoColor=white&labelColor=gray&color=red&link=mailto%3Amustafaonurkilinc00%40gmail.com)
+
 ### About Me
 
 🏫 I am a Computer Engineering senior student at Yıldız Technical University.
@@ -17,11 +20,21 @@ My name is Mustafa Onur KILINC.
 
 👨 Pronouns: he/him
 
-### How to Reach Me 📫
+😆 I love programmer jokes. Here's one from [ABSphreak's](https://github.com/ABSphreak) [readme-jokes](https://github.com/ABSphreak/readme-jokes) repository:
 
-Here's my [LinkedIn](https://www.linkedin.com/in/mustafa-onur-kilin%C3%A7-479449173/).
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
-You can mail me at mustafaonurkilinc00@gmail.com
+### My Skills
+
+![Static Badge](https://img.shields.io/badge/Graphic_Design-Canva?logo=canva&label=Canva&labelColor=white&color=turquoise&link=https%3A%2F%2Fcanva.com)
+![Static Badge](https://img.shields.io/badge/Graphic_Design-GIMP?logo=gimp&label=GIMP&labelColor=gray&color=white&link=https%3A%2F%2Fgimp.org)
+
+![Static Badge](https://img.shields.io/badge/Programming-Python?logo=python&label=Python&labelColor=white&color=blue&link=https%3A%2F%2Fpython.org)
+![Static Badge](https://img.shields.io/badge/Programming-C%2B%2B?logo=cplusplus&logoColor=blue&label=C%2B%2B&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/Programming-C?logo=c&labelColor=gray&color=a9bacd)
+
+![Static Badge](https://img.shields.io/badge/Version_Control-Git?logo=git&label=Git&labelColor=gray&color=orange)
+![Static Badge](https://img.shields.io/badge/Version_Control-GitHub?logo=github&label=GitHub&labelColor=gray&color=white)
 
 ### My GitHub Stats
 
@@ -31,11 +44,16 @@ You can mail me at mustafaonurkilinc00@gmail.com
 
 For multiple examples of GitHub profile README's, check [this repository](https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file) by [abisheknaiidu](https://github.com/abhisheknaiidu)
 
+Badges from: Shields.io 2024, _Shields.io_, accessed 12 January 2024, <<https://shields.io/>>
+
 ## Türkçe (🇹🇷)
 
 ### Merhaba, okuyucu. 👋👋👋
 
 Benim adım Mustafa Onur KILINÇ.
+
+![Static Badge](https://img.shields.io/badge/Sosyal-LinkedIn?logo=linkedin&labelColor=gray&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmustafa-onur-kilin%25C3%25A7-479449173%2F)
+![Static Badge](https://img.shields.io/badge/Mail-Gmail?logo=gmail&logoColor=white&labelColor=gray&color=red&link=mailto%3Amustafaonurkilinc00%40gmail.com)
 
 ### Hakkımda
 
@@ -48,11 +66,21 @@ Benim adım Mustafa Onur KILINÇ.
 
 🌠 Görevleri elimden geldiğince düzgün yapma özelliğimle gurur duyuyorum, özellikle README'ler ve ayrıntılı commit mesajları yazarken (Bu kulağa kibirli geliyorsa özür dilerim.).
 
-### Bana Nasıl Ulaşabilirsiniz 📫
+😆 Programcı şakalarını çok severim. İşte [ABSphreak'in](https://github.com/ABSphreak) [readme-jokes](https://github.com/ABSphreak/readme-jokes) repository'sinden bir şaka:
 
-[LinkedIn](https://www.linkedin.com/in/mustafa-onur-kilin%C3%A7-479449173/) hesabım burada.
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
-Bana mustafaonurkilinc00@gmail.com mail adresimden de mail atabilirsiniz.
+### Yeteneklerim
+
+![Static Badge](https://img.shields.io/badge/Grafik_Tasar%C4%B1m-Canva?logo=canva&label=Canva&labelColor=white&color=turquoise&link=https%3A%2F%2Fcanva.com)
+![Static Badge](https://img.shields.io/badge/Grafik_Tasar%C4%B1m-GIMP?logo=gimp&label=GIMP&labelColor=gray&color=white&link=https%3A%2F%2Fgimp.org)
+
+![Static Badge](https://img.shields.io/badge/Programlama-Python?logo=python&label=Python&labelColor=white&color=blue&link=https%3A%2F%2Fpython.org)
+![Static Badge](https://img.shields.io/badge/Programlama-C%2B%2B?logo=cplusplus&logoColor=blue&label=C%2B%2B&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/Programlama-C?logo=c&labelColor=gray&color=a9bacd)
+
+![Static Badge](https://img.shields.io/badge/Versiyon_Kontrol-Git?logo=git&label=Git&labelColor=gray&color=orange)
+![Static Badge](https://img.shields.io/badge/Versiyon_Kontrol-GitHub?logo=github&label=GitHub&labelColor=gray&color=white)
 
 ### GitHub İstatistiklerim
 
