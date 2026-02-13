@@ -7,7 +7,7 @@ My name is Mustafa Onur KILINC.
 
 ## About Me
 
-🏫 I am a Computer Engineering senior student at Yıldız Technical University.
+🏫 I am a Computer Engineer who is currently looking for a job.
 
 🤩 I am interested in promising future technologies such as;
 - Autonomous Vehicles 🚙🤖
